@@ -3,7 +3,7 @@
 - [ATIVIDADE 1 ](https://isaugomes.github.io/atividade01-Web1-/)
 - [ATIVIDADE 2 ](https://isaugomes.github.io/atividade-2-Web1/)
 - [ATIVIDADE 3 ](https://isaugomes.github.io/atividade-3-Web1/)
-- [ATIVIDADE 4 ]()
+- [ATIVIDADE 4 ]( https://isaugomes.github.io/atividade-4-Web1/)
 - [ATIVIDADE 5 ]()
 - [ATIVIDADE 6 ]()
 - [ATIVIDADE 7 ]()
