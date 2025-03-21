@@ -9,7 +9,7 @@
 - [ATIVIDADE 7 ](https://isaugomes.github.io/atividade-7-Web1/)
 - [ATIVIDADE 8 ](https://isaugomes.github.io/Atividade-8-Web1/)
 - [ATIVIDADE 9 ]( https://isaugomes.github.io/Atividade-9-Web1/)
-- [ATIVIDADE 10 ]()
+- [ATIVIDADE 10 ](https://isaugomes.github.io/Atividade-10-Web1/)
 - [ATIVIDADE 11 ]()
 - [ATIVIDADE 12 ]()
 - [ATIVIDADE 13 ]()
