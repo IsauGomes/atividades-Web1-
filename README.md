@@ -12,5 +12,5 @@
 - [ATIVIDADE 10 ](https://isaugomes.github.io/Atividade-10-Web1/)
 - [ATIVIDADE 11 ](https://isaugomes.github.io/Atividade-11-Web1/)
 - [ATIVIDADE 12 ](https://isaugomes.github.io/Atividade-12-Web1/)
-- [ATIVIDADE 13 ]()
-- [ATIVIDADE 14 ]()
+- [ATIVIDADE 13 ](https://isaugomes.github.io/Atividade-13-Web1/)
+- [ATIVIDADE 14 ](https://isaugomes.github.io/Atividade-14-Web1/)
